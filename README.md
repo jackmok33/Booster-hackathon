@@ -1,11 +1,5 @@
 # Booster Partner Finder
 
-A local hackathon web app for finding boutiques that could trial within-the-hour delivery and letting existing Booster customers refer their favourite stores.
-
-## Critical path
-
-The screenshots show the fictional Rowan & Vale boutique and the simulated referral programme.
-
 ### Company research and outreach
 
 **Check the boutique’s fit.** Search for a company and inspect the evidence behind the qualification decision.
@@ -33,6 +27,12 @@ The screenshots show the fictional Rowan & Vale boutique and the simulated refer
 **Attribute the enquiry and unlock the credit.** Booster sees the customer referral in its workspace. The customer earns a simulated credit when Booster marks the boutique as joined.
 
 ![Booster activity showing the attributed pilot enquiry and Alex’s unlocked demo delivery credit](docs/screenshots/06-referral-credit.png)
+
+A local hackathon web app for finding boutiques that could trial within-the-hour delivery and letting existing Booster customers refer their favourite stores.
+
+## Critical path
+
+The screenshots show the fictional Rowan & Vale boutique and the simulated referral programme.
 
 ## Run locally
 
