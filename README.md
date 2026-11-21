@@ -10,6 +10,14 @@
 
 ![Decision-maker map with the commercial director, Mayfair store manager, and head of e-commerce](docs/screenshots/02-decision-makers.png)
 
+**Email & LinkedIn.** The first tab shows why each contact matters, a conversation starter, and the available messaging channels.
+
+![Email and LinkedIn tab with three recommended Rowan & Vale contacts and personalised conversation starters](docs/screenshots/02a-email-linkedin-tab.png)
+
+**In-person introductions.** The second tab suggests ways to request a business meeting, including a trade appointment and a scheduled boutique walk-through.
+
+![In-person introductions tab with a suggested meeting and a draft meeting request button for each contact](docs/screenshots/02b-in-person-introductions-tab.png)
+
 **Review a personalised draft.** The email uses the boutique’s collection workflow to propose a small delivery pilot.
 
 ![Editable email draft for Rowan & Vale with its sample collection guide shown as supporting evidence](docs/screenshots/03-personalised-email.png)
