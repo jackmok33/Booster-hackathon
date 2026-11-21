@@ -1,4 +1,4 @@
-# Booster Partner Finder
+# Booster Partner Finder Screenshots of the web app here
 
 ### Company research and outreach
 
